@@ -1,0 +1,2 @@
+java -jar ./flow.jar --spring.datasource.druid.url=jdbc:mysql://127.0.0.1:3306/flow1?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true  --spring.datasource.druid.username=user --spring.datasource.druid.password=1234  --server.port=8989
+pause
